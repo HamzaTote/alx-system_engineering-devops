@@ -1,0 +1,1 @@
+Readme fo shell permissions
