@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R | grep -c '/$'
+find . -type d -not -name '.' | wC -l
